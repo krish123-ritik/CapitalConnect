@@ -1,1 +1,1 @@
-# CapitalConnect
+CapitalConnect is a platform that connects startups with investors, It's straightforward  and conveys the platform's purpose effectively. It's features are User Authentication, Mobile-friendly User Interface, and It's a platform designed to simplify and digitlize vendor-customer interactions. 
